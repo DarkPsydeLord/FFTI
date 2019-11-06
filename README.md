@@ -35,7 +35,7 @@
 
 ## Dependencies
   * pandas
-  * Tkniter
+  * Tkinter
 
 ## Licence
     Image processing on python
